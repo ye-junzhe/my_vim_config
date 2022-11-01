@@ -1,0 +1,14 @@
+ale
+auto-pairs
+coc.nvim
+fzf
+neobundle.vim
+neosnippet-snippets
+neosnippet.vim
+nerdcommenter
+nerdtree
+vim-airline
+vim-colorschemes
+vim-fugitive
+vim-gitgutter
+vim-startify
